@@ -1,0 +1,36 @@
+h1, h2{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.container{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.content{
+    display: flex;
+}
+
+.news-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.news{
+    display: flex;
+}
+
+.news-content{
+    padding: 0 20px;
+}
+
+.footer{
+    margin-top: 24px;
+}

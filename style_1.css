@@ -1,0 +1,34 @@
+h1, h2{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.container{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.jcsb{
+    justify-content: space-between;
+}
+
+.mb-6{
+    margin-bottom: 24px;
+}
+
+.px-5{
+    padding: 0 20px;
+}
